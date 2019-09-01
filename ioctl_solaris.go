@@ -1,7 +1,7 @@
 package pty
 
 import (
-	"golang.org/x/sys/unix"
+	"github.com/golang/sys/unix"
 	"unsafe"
 )
 

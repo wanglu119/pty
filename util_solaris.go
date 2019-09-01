@@ -4,7 +4,7 @@ package pty
 
 import (
 	"os"
-	"golang.org/x/sys/unix"
+	"github.com/golang/sys/unix"
 )
 
 const (

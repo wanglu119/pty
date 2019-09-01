@@ -6,7 +6,7 @@ http://src.illumos.org/source/xref/illumos-gate/usr/src/lib/libc/port/gen/pt.c
 
 import (
 	"errors"
-	"golang.org/x/sys/unix"
+	"github.com/golang/sys/unix"
 	"os"
 	"strconv"
 	"syscall"
